@@ -1,7 +1,8 @@
 {
 	"name": "vscode-toggle-max-editor",
 	"displayName": "Toggle Maximize Editor",
-	"publisher": "cb109",
+	"publisher": "cbuelter",
+	"repository": "https://github.com/cb109/vscode-toggle-max-editor",
 	"description": "Toggle maximized editor and back",
 	"version": "0.0.1",
 	"engines": {
