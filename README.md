@@ -1,9 +1,10 @@
-# vscode-toggle-max-editor README
+# vscode-toggle-max-editor
 
-This extension exposes the `togglemaxeditor.toggleMaximizeEditor` command that you can use to maximize/normalize an editor tab with a single key.
+![preview](togglemaxeditor_preview.gif)
 
-It currently uses existing commands which unfortunately only partially maximize.
-The sidebar is hidden when maximizing.
+- This extension exposes the `togglemaxeditor.toggleMaximizeEditor` command that you can use to maximize/normalize an editor tab with a single key.
+- It currently uses existing commands which unfortunately only partially maximize.
+- The sidebar is hidden when maximizing.
 
 ## Credits
 
