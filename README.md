@@ -4,3 +4,7 @@ This extension exposes the `togglemaxeditor.toggleMaximizeEditor` command that y
 
 It currently uses existing commands which unfortunately only partially maximize.
 The sidebar is hidden when maximizing.
+
+## Credits
+
+The actual toggle function is gratefully extracted from: https://github.com/DavidBabel/clever-vscode
